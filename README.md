@@ -1,3 +1,9 @@
+### Prerequisites
+
+This scripts were written on Python 2.7. Before use them, Please make sure that you install Python 2.7.
+
+
+
 # log-generator
 
 Simple python script to generate random log into custom folder
@@ -8,7 +14,6 @@ Simple python script to generate random log into custom folder
 python log-generator.py --logPath <targetPath> [--logDate YYYY-mm-DD]
 Example: python log-generator.py --logPath /logs --logDate 2018-12-19
 ```
-
 
 
 
