@@ -3,8 +3,9 @@
 #################################
 # log-generator
 #
+# - https://github.com/eta31/log-analyzer
 # - small python script to generate random log file into folder
-# - Creating 1000 files in that case
+# - Creating 1000 log files
 #
 #################################
 

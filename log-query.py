@@ -3,6 +3,7 @@
 #################################
 # log-query
 #
+# - https://github.com/eta31/log-analyzer
 # - small python script to get report from logs
 #
 #################################
