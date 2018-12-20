@@ -1,6 +1,6 @@
 ### Prerequisites
 
-This scripts were written on Python 2.7. Before use them, please make sure that you installed Python 2.7 on your machine.
+The scripts were written on Python 2.7. Before use them, please make sure that you installed Python 2.7 on your machine.
 
 
 
